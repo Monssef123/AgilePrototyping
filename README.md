@@ -111,7 +111,24 @@ The challenges will possibly be the communication and understanding the differen
 
 <details>
   <summary><strong>Monssef's reflection</strong></summary>
-...
+  
+#### What you have learnt in the course?
+This course gave me a different understanding of how buildings are made and somehow, it made me realize that connecting the system isn’t all that easy to make. Looking back at the course, I learned many ways of different perspectives of how we can progress the building efficiencies by taking some experience from nature. The concept of "building growth" was particularly eye-opening. It emphasized that buildings are not static objects but are constantly subject to change and evolution, driven by shifting environmental, social, and technological factors. I learned how to identify and manipulate the core "genes" or characteristics that define a system’s functionality and adaptability. This approach helped me understand how small design changes can have a effect on the overall performance of a building.
+
+#### How you might apply this in the future?
+I plan to apply the knowledge and skills gained from this course across both my academic and professional pursuits, as well as in everyday problem-solving. In future courses, specifically those focused on architectural design, engineering, and sustainability, I will resume the concept of agile prototyping to develop more adaptable and innovative solutions.
+
+#### Further challenges that the Agile Prototyping Methodology raises that need to be solved?
+It is indeed a problem or challenge to obtain a form of communication or commissioning, when the people building or designing the project can end with the same goal. However, tools for better communication can be reached when arranging a system, that can reach the person or group in the project. The evolution of the building stage can be troublesome in some cases, but that’s where innovation needs to be implemented throughout the whole process, which can be the key part of a successful project.
+
+#### Further challenges in the Common Building Growth Stages?
+Buildings in projects are relatively challenging and can create issues with the schedule. Many constructions follow the standards for the different stages, but it can be difficult to achieve a satisfactory outcome. While the common building growth stages provide a structured framework, successfully navigating these stages requires proactive management, flexibility, and constant communication among all stakeholders to overcome the inevitable challenges and deliver a satisfactory final project.
+
+#### Advantages of the Common Building Growth Stages?
+The common building growth stages provide a clear and structured framework that helps the construction process from start to finish. By breaking the project into phases - such as planning, design, construction, and handover, it becomes easier to manage tasks, resources, and timelines. This structure improves coordination between different teams, ensuring that architects, engineers, and contractors work in sync. It also allows for better risk management, as potential issues can be identified and addressed at each stage before they escalate. In the end, this approach leads to a more efficient and predictable project workflow, reducing the probability of delays and costs.
+
+#### What limitations/challenges that are in applying the projects to the course Advanced Building Design 2025?
+By applying the Agile Prototype course to Advanced Building Design 2025, the freedom of the project will likely be more limited. In the Agile Prototype course, there was significant flexibility to use adaptive methods and draw inspiration from how nature responds to different situations. In contrast, the Advanced Building Design course will likely have specific requirements and regulations regarding how the building must be designed and constructed, which introduces certain limitations. However, having a defined framework or set of guidelines can be beneficial, as it provides clarity on the building’s intended functions and requirements, offering direction for the project. Still, it will be challenging to meet the regulations and standards set throughout the process.
 
 </details>
 
@@ -119,7 +136,25 @@ The challenges will possibly be the communication and understanding the differen
 
 <details>
   <summary><strong>Danish's reflection</strong></summary>
-...
+
+#### What you have learnt in the course?
+his course has shown me how different systems need to work together and what processes are important to consider before making big decisions about my own system, which is services. The first assignment, How to Grow a Cup, also taught me that there are lots of ways to approach a single process and that there isn’t always just one right way to do things.
+
+#### How you might apply this in the future?
+In the future, this knowledge will definitely help me in my working life, as I now have a much better understanding of the overall building development process. It’s not just about individual systems but how everything comes together in the bigger picture. On top of that, it has really expanded my creative thinking, allowing me to approach challenges in more innovative and flexible ways.
+
+#### Further challenges that the Agile Prototyping Methodology raises that need to be solved?
+The lack of knowledge about systems outside their own expertise can pose a significant challenge during the building design process
+
+#### Further challenges in the Common Building Growth Stages?
+One of the biggest challenges is when different systems collide together. It takes careful planning and coordination to make sure both systems meet their requirements without causing any conflicts or issues. This often requires good communication and teamwork to ensure everything runs smoothly.
+
+#### Advantages of the Common Building Growth Stages?
+The Common Building Growth Stages give the project a clear structure, making it easier to manage from planning to completion. This helps with organizing resources, setting timelines, and tracking progress, ensuring the project stays on track and within budget.
+
+#### What limitations/challenges that are in applying the projects to the course Advanced Building Design 2025?
+Because the course on advanced building design is a more detailed oriented course where each system is broken down into very specific elements for their area. It will be difficult to implement these things from this course into advanced building design, as it don't necessarily provide further understanding of each student's own system.
+
 
 </details>
 
